@@ -1,0 +1,16 @@
+{
+  "name": "inception-contributor",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:leolassence/inception-contributor.git",
+  "author": "leolassence <leolassence@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "rights": "chmod +x ./bin/bin.sh",
+    "start": "node index.js",
+    "push": "git push"
+  },
+  "dependencies": {
+    "moment": "^2.17.1"
+  }
+}
